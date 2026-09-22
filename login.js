@@ -1,4 +1,4 @@
 function login() {
-  const usr = "demo";
-  console.log("Connexion de l'utilisateur : " + usr);
+  const username = "demo";
+  console.log("Connexion de l'utilisateur : " + username);
 }
